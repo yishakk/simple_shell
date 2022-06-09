@@ -1,7 +1,7 @@
 "manpage for Simple_shell. Simple shell project to ALX-School.
 .TH man 1 "1 June 2022" "Simple Shell"                    "1 June 2022" "1.0"                                              "simple_shell man page"
 SH NAME
-Holberton Simple Shell
+Alx-School Simple Shell
 - A simple UNIX command line interpreter.
 .SH SYNOPSIS
 .B ./hsh [options] [command_string | file]
