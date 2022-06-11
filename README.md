@@ -16,7 +16,7 @@ This is a command line interpreter, or shell, in the tradition of the first Unix
 
 ## Installation
 
-- Clone this repository: `git clone "https://github.com/zola2311/simple_shell.git"`
+- Clone this repository: `git clone "https://github.com/yishakk/simple_shell.git"`
    - Change directories into the repository: `cd simple_shell`
       - Compile: `gcc -Wall -Werror -Wextra -pedantic *.c -o hsh`
      - Run the shell in interactive mode: `./hsh`
